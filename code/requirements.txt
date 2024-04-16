@@ -1,0 +1,5 @@
+pandas
+tqdm
+requests
+atproto==0.0.46
+tweepy>=4.0,<5.0
